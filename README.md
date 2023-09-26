@@ -1,2 +1,2 @@
 # wineTakout-front
-Takeout app using react
+Takeout front app using react-native
